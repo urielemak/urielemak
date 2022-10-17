@@ -1,8 +1,8 @@
 ### Hi there, I'm Uriel Emanuel Bergara, a fullstack software developer based on Buenos Aires, Argentina.
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=urielemak&show_icons=true&theme=gotham" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=urielemak&show_icons=true&theme=gotham" />
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielemak&layout=compact&show_icons=true&theme=gotham" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielemak&layout=compact&show_icons=true&theme=gotham" />
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Redux,TaildwindCss,Boostrap,Node.js,SpringBoot,Hibernate,OSGI)](https://github.com/kijepark)
 
