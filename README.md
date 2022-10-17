@@ -4,7 +4,7 @@
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielemak&layout=compact&show_icons=true&theme=gotham" />
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,Redux,TaildwindCss,Boostrap,Node.js,SpringBoot,Hibernate,OSGI)](https://github.com/kijepark)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=Java,JavaScript,React,Redux,TaildwindCss,Boostrap,Node.js,SpringBoot,Hibernate,OSGI)](https://github.com/kijepark)
 
 - :office: I'm currently looking for a job as a fullstack developer.
 - 🌱 I’m currently learning Python, Microservices and software architecture by myself.
