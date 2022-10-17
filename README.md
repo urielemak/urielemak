@@ -4,6 +4,8 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielemak&layout=compact&show_icons=true&theme=gotham" />
 
+
+
 - :office: I'm currently looking for a job as a fullstack developer.
 - 🌱 I’m currently learning Python, Microservices and software architecture by myself.
 - 💬 Ask me about HTML, CSS, Javascript, Angular, React, Java, SpringBoot
