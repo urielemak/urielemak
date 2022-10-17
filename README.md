@@ -1,8 +1,8 @@
 ### Hi there, I'm Uriel Emanuel Bergara, a fullstack software developer based on Buenos Aires, Argentina.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urielemak&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=urielemak&show_icons=true&theme=gotham" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urielemak&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielemak&layout=compact&show_icons=true&theme=gotham" />
 
 - :office: I'm currently looking for a job as a fullstack developer.
 - 🌱 I’m currently learning Python, Microservices and software architecture by myself.
