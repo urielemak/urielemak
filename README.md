@@ -8,4 +8,4 @@
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Databases%20and%Devops&badges=MySQL,SQLite,H2,Git,GithubActions,Jenkins,Docker)](https://github.com/kijepark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urielemak?theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urielemak&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
